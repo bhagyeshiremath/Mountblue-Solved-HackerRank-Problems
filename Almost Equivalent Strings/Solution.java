@@ -2,7 +2,7 @@
 //Because by default hackerRank will give his own main Method 
 //If you try to Run this same code on your local IDE (ie: Visual studio , terminal , command prompt , etc)
 //It will give an error !!
-//And this solution will pass all the test cases 
+//And this solution will pass all the test cases on hackerRank
 
 import java.io.IOException;
 import java.util.*;
