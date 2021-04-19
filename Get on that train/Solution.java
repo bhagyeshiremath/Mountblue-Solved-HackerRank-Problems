@@ -1,4 +1,8 @@
-
+//If you want to run this code on the hackerRank platform then just refer this code from line no 9 to line no 37
+//Because by default hackerRank will give his own main Method 
+//If you try to Run this same code on your local IDE (ie: Visual studio , terminal , command prompt , etc)
+//It will give an error !!
+//And this solution will pass all the test cases on hackerRank
 import java.util.*;
 public class Result
 {
